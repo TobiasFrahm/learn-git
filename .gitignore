@@ -7,7 +7,7 @@ __pycache__/
 *.so
 #virtual environment
 /venv/
-
+/.idea/
 # Distribution / packaging
 .Python
 build/
